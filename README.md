@@ -1,6 +1,6 @@
-# fangmeituan
+# 仿饿了么商家页面
 
-> 仿饿了么商家页面
+> 演示
 
 ![饿了么商家页面](https://github.com/SphinxVon/VueProject/raw/master/static/img/elm.gif)
 ## Build Setup
