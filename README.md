@@ -1,7 +1,8 @@
 # fangmeituan
 
-> 仿美团外卖
+> 仿饿了么商家页面
 
+![饿了么商家页面](https://github.com/SphinxVon/VueProject/raw/master/static/img/elm.gif)
 ## Build Setup
 
 ``` bash
