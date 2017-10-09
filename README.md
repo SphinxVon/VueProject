@@ -3,6 +3,8 @@
 > 演示
 
 ![饿了么商家页面](https://github.com/SphinxVon/VueProject/raw/master/static/img/elm.gif)
+##
+可clone至本地运行
 ## Build Setup
 
 ``` bash
